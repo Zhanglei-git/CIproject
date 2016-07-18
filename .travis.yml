@@ -1,5 +1,5 @@
 language: java
 jdk: oraclejdk8
-install: mvn claen install
+install: mvn install
 script: mvn test
 
